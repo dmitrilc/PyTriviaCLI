@@ -120,7 +120,7 @@ class Request1:
         self.response_code = self.raw_results['response_code']
         self.results = self.raw_results['results']
         
-        print(self.response_code)
+        #print(self.response_code)
         
         if self.response_code == 1:
             print("No Results Could not return results. The API doesn't have enough questions for your query. (Ex. Asking for 50 Questions in a Category that only has 20)")
