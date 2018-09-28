@@ -2,7 +2,7 @@
 
 Python CLI app that retrieves Trivia questions from https://opentdb.com. No restful auth is required.
 
-How to use:
+How to use (Python 3 is required):
 1. Download main.py
 2. In terminal type 'python main.py'
 3. Follow the prompts.
